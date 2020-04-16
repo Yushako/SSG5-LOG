@@ -25,12 +25,12 @@ for i in range(count):
   string3=string3.replace("id=4","id=4(U2T_http)")
   string3=string3.replace("id=9","id=9(U2T_smtp)")
   string3=string3.replace("id=28","id=28(T2U_1935)")
-  string3=string3.replace("id=21","id=21(T2U_cs00)")
+  string3=string3.replace("id=21","id=21(T2U_00)")
   string3=string3.replace("id=17","id=17(T2U_.7)")
-  string3=string3.replace("id=12","id=12(T2U_cs02)")
-  string3=string3.replace("id=14","id=14(T2U_cs01)")
+  string3=string3.replace("id=12","id=12(T2U_02)")
+  string3=string3.replace("id=14","id=14(T2U_01)")
   string3=string3.replace("id=22","id=22(T2U_.2)")
-  string3=string3.replace("id=29","id=22(T2U_cs00no)")
+  string3=string3.replace("id=29","id=22(T2U_00no)")
   fo.write(string3)
 
 
